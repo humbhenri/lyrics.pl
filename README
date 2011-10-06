@@ -1,2 +1,4 @@
-    Show the lyrics from the current song played in Rhythmbox.
-    Tested in Ubuntu 10.04.
+Show the lyrics from the current song played in Rhythmbox.
+Tested in Ubuntu 10.04.
+Just testing wxperl and dbus integration.
+License: GPLv2
